@@ -1,0 +1,27 @@
+[
+    {
+      "ball": "1.1",
+      "batsman": "Ruturaj Gaikwad",
+      "bowler": "Mitchell Starc",
+      "runs": 4,
+      "event": "FOUR",
+      "score": "4/0"
+    },
+    {
+      "ball": "1.2",
+      "batsman": "Ruturaj Gaikwad",
+      "bowler": "Mitchell Starc",
+      "runs": 0,
+      "event": "DOT",
+      "score": "4/0"
+    },
+    {
+      "ball": "1.3",
+      "batsman": "Ruturaj Gaikwad",
+      "bowler": "Mitchell Starc",
+      "runs": 6,
+      "event": "SIX",
+      "score": "10/0"
+    }
+  ]
+  
